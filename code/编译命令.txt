@@ -1,9 +1,0 @@
-g++ -c big_block.cpp
-g++ -c block.cpp
-g++ -c file.cpp
-g++ -c main.cpp
-g++ -c operation.cpp
-g++ -c seek.cpp
-g++ -c shell.cpp
-g++ -c pointer.cpp
-g++ main.o big_block.o block.o file.o operation.o seek.o shell.o pointer.o -o czxt_ks
